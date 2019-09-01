@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/HugoEnamorado/laboratorio-7-HugoEnamorado/issues"
   },
-  "homepage": "https://github.com/HugoEnamorado/laboratorio-7-HugoEnamorado#readme"
+  "homepage": "https://github.com/HugoEnamorado/laboratorio-7-HugoEnamorado#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
